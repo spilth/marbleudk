@@ -12,7 +12,7 @@ DefaultProperties
 		AlwaysCheckCollision=TRUE
 		ScriptRigidBodyCollisionThreshold=0.001
 		LightingChannels=(Dynamic=TRUE)
-		DepthPriorityGroup=SDPG_Foreground
+		DepthPriorityGroup=SDPG_World
 	End Object
 	Components.Add(StaticMeshComponent0)
 	DrawScale=0.8
